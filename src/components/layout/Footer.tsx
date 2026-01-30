@@ -19,8 +19,8 @@ function Footer() {
               "Home is where the hemp is"
             </p>
             <p className="text-gray-400 text-sm">
-              Building sustainable homes with hempcrete — better insulated, more
-              durable, and environmentally friendly.
+              Custom hempcrete homes on Colorado's Front Range. One material,
+              superior performance, carbon-negative construction.
             </p>
           </div>
 

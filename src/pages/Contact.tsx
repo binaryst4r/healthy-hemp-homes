@@ -39,10 +39,11 @@ function Contact() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto">
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-              Contact Us
+              Let's Talk
             </h1>
             <p className="text-xl text-gray-600">
-              Ready to build your sustainable dream home? Let's talk.
+              Building a custom home is a big decision. We are here to answer
+              questions and help you understand if hempcrete is right for you.
             </p>
           </div>
         </div>
@@ -207,30 +208,28 @@ function Contact() {
                     Service Area
                   </h3>
                   <p className="text-gray-600">
-                    We serve the Colorado Front Range, with a focus on the
-                    Littleton and greater Denver metro area.
+                    Colorado Front Range, with a focus on the Littleton and
+                    greater Denver metro area.
                   </p>
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">
-                    Current Project
+                    See Hempcrete in Progress
                   </h3>
                   <p className="text-gray-600">
-                    We're currently building a custom hempcrete home in the
-                    mountains of Littleton. Contact us to learn more about our
-                    progress and see what hempcrete construction looks like in
-                    action.
+                    Our current project in the Littleton mountains is underway.
+                    Reach out if you would like to learn more about our progress
+                    or see hempcrete construction firsthand.
                   </p>
                 </div>
                 <div>
                   <h3 className="font-semibold text-gray-900 mb-2">
-                    What to Expect
+                    What Happens Next
                   </h3>
                   <p className="text-gray-600">
-                    After you submit your inquiry, we'll review your message and
-                    get back to you within 1-2 business days. For custom home
-                    projects, we'll schedule an initial consultation to discuss
-                    your vision and answer any questions.
+                    We will respond within 1-2 business days. For custom home
+                    inquiries, we will schedule a consultation to discuss your
+                    site, your goals, and how hempcrete fits.
                   </p>
                 </div>
               </div>

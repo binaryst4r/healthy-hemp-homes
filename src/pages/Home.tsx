@@ -8,15 +8,16 @@ function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center max-w-3xl mx-auto">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6">
-              Building the Future with{' '}
-              <span className="text-primary">Hempcrete</span>
+              Homes That Outlast{' '}
+              <span className="text-primary">Generations</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-4 italic">
               "Home is where the hemp is"
             </p>
             <p className="text-lg text-gray-600 mb-8">
-              Custom homes built with sustainable hempcrete — better insulated,
-              more durable, and environmentally responsible.
+              Custom hempcrete homes for Colorado's Front Range. One material replaces
+              drywall, insulation, sheathing, and siding — delivering superior comfort,
+              durability, and a carbon-negative footprint.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link
@@ -44,10 +45,9 @@ function Home() {
               What is Hempcrete?
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Hempcrete is a revolutionary building material made from hemp
-              hurds (the woody core of the hemp plant) mixed with lime. It
-              replaces traditional drywall, insulation, sheathing, and siding in
-              one sustainable package.
+              A bio-composite of hemp hurd and lime that replaces four conventional
+              materials in one. Used in Europe for decades, now available for custom
+              homes in Colorado thanks to the 2018 Farm Bill.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -68,12 +68,12 @@ function Home() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Sustainable
+                Carbon Negative
               </h3>
               <p className="text-gray-600">
-                Made from rapidly renewable hemp and natural lime, hempcrete
-                actually sequesters carbon as it cures, making it carbon
-                negative.
+                Hemp absorbs CO2 as it grows. Lime continues absorbing carbon
+                for decades as it cures. Your walls actively reduce atmospheric
+                carbon.
               </p>
             </div>
             <div className="bg-white p-6 rounded-xl shadow-md border border-gray-100">
@@ -93,11 +93,12 @@ function Home() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Durable
+                Built to Last
               </h3>
               <p className="text-gray-600">
-                Hempcrete walls are fire-resistant, pest-resistant, and mold
-                resistant. They're built to last for generations.
+                Fire-resistant, pest-resistant, mold-resistant. Hempcrete
+                structures in Europe have stood for centuries — and the lime
+                binder strengthens over time.
               </p>
             </div>
             <div className="bg-white p-6 rounded-xl shadow-md border border-gray-100">
@@ -117,11 +118,12 @@ function Home() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Energy Efficient
+                Year-Round Comfort
               </h3>
               <p className="text-gray-600">
-                Superior thermal mass and insulation properties mean lower
-                energy bills and consistent indoor temperatures year-round.
+                Thermal mass plus insulation creates stable indoor temperatures.
+                Vapor-permeable walls regulate humidity naturally. Lower energy
+                bills follow.
               </p>
             </div>
           </div>
@@ -133,44 +135,44 @@ function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Our Services
+              What We Build
             </h2>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              We specialize in custom home construction using hempcrete,
-              bringing sustainable building to the Colorado Front Range.
+              Custom hempcrete homes on Colorado's Front Range — from design through
+              move-in.
             </p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="bg-white p-8 rounded-xl shadow-md">
               <h3 className="text-2xl font-semibold text-gray-900 mb-4">
-                Custom Home Building
+                Custom Hempcrete Homes
               </h3>
               <p className="text-gray-600 mb-4">
-                From design to completion, we build custom homes using hempcrete
-                construction. Your home is framed traditionally, then we replace
-                conventional materials with hempcrete for superior performance.
+                Traditional wood framing meets hempcrete wall systems. We handle
+                design, permitting, construction, and finishing — you get a home
+                that performs better and lasts longer.
               </p>
               <Link
                 to="/services"
                 className="text-primary font-medium hover:text-primary-dark transition-colors"
               >
-                Learn more →
+                See our process →
               </Link>
             </div>
             <div className="bg-white p-8 rounded-xl shadow-md">
               <h3 className="text-2xl font-semibold text-gray-900 mb-4">
-                Consultation & Education
+                Consultation
               </h3>
               <p className="text-gray-600 mb-4">
-                Interested in hempcrete but not sure where to start? We offer
-                consultations to help you understand if hempcrete is right for
-                your project.
+                Exploring hempcrete for your next home? We will walk you through
+                the material science, construction process, and costs — no
+                commitment required.
               </p>
               <Link
                 to="/contact"
                 className="text-primary font-medium hover:text-primary-dark transition-colors"
               >
-                Get in touch →
+                Schedule a call →
               </Link>
             </div>
           </div>
@@ -181,17 +183,17 @@ function Home() {
       <section className="py-16 md:py-24 bg-primary">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-            Ready to Build Sustainably?
+            Build a Home That Gives Back
           </h2>
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            Let's discuss your dream home and how hempcrete can make it a
-            reality.
+            Your custom hempcrete home sequesters carbon, slashes energy costs, and
+            stands for generations. Let's make it happen.
           </p>
           <Link
             to="/contact"
             className="inline-block bg-white text-primary px-8 py-3 rounded-lg hover:bg-gray-100 transition-colors font-medium text-lg"
           >
-            Contact Us Today
+            Start the Conversation
           </Link>
         </div>
       </section>

@@ -11,7 +11,8 @@ function Services() {
               Our Services
             </h1>
             <p className="text-xl text-gray-600">
-              Custom hempcrete home construction for the Colorado Front Range.
+              Full-service custom home building with hempcrete — from your vision to
+              your keys.
             </p>
           </div>
         </div>
@@ -27,34 +28,30 @@ function Services() {
               </h2>
               <div className="prose prose-lg text-gray-600 space-y-4">
                 <p>
-                  Our primary service is building custom homes using hempcrete
-                  construction. We work with you from concept to completion,
-                  creating a home that's uniquely yours while being sustainable
-                  and high-performing.
+                  We build custom homes using hempcrete wall systems. The
+                  construction starts familiar — traditional wood framing — then
+                  diverges. Instead of layering drywall, insulation, sheathing,
+                  and siding separately, we pack hempcrete into forms around the
+                  frame.
                 </p>
                 <p>
-                  The construction process starts with traditional framing —
-                  your home is built with a standard wood frame structure. Then,
-                  instead of conventional drywall, insulation, and siding, we
-                  pack hempcrete into forms around the frame. The result is a
-                  monolithic wall system that provides:
+                  The result is a monolithic wall system that delivers:
                 </p>
                 <ul className="space-y-2">
-                  <li>Thermal insulation</li>
+                  <li>Thermal insulation with thermal mass</li>
                   <li>Structural sheathing</li>
                   <li>Interior and exterior finish</li>
-                  <li>Moisture regulation</li>
+                  <li>Natural humidity regulation (vapor-permeable)</li>
                 </ul>
                 <p>
-                  The finished walls have a beautiful, natural texture similar
-                  to stucco or adobe, and can be left natural or finished with
-                  lime wash in any color you choose.
+                  The finished surface resembles stucco or adobe. Leave it
+                  natural or apply lime wash in any color.
                 </p>
               </div>
             </div>
             <div className="bg-accent rounded-2xl p-8">
               <h3 className="text-2xl font-semibold text-gray-900 mb-6">
-                What's Included
+                Full-Service Build
               </h3>
               <ul className="space-y-4">
                 <li className="flex items-start gap-3">
@@ -175,7 +172,7 @@ function Services() {
       <section className="py-16 md:py-24 bg-gray-50">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-12 text-center">
-            Hempcrete vs. Traditional Construction
+            Hempcrete vs. Conventional Construction
           </h2>
           <div className="overflow-x-auto">
             <table className="w-full bg-white rounded-xl shadow-md">
@@ -195,13 +192,13 @@ function Services() {
               <tbody className="divide-y divide-gray-200">
                 <tr>
                   <td className="px-6 py-4 font-medium text-gray-900">
-                    Insulation
+                    Thermal Performance
                   </td>
                   <td className="px-6 py-4 text-gray-600">
-                    Excellent thermal mass + insulation
+                    Insulation + thermal mass for stable temps
                   </td>
                   <td className="px-6 py-4 text-gray-600">
-                    Depends on insulation type
+                    Insulation only (no thermal mass)
                   </td>
                 </tr>
                 <tr className="bg-gray-50">
@@ -246,10 +243,10 @@ function Services() {
                 </tr>
                 <tr className="bg-gray-50">
                   <td className="px-6 py-4 font-medium text-gray-900">
-                    Longevity
+                    Lifespan
                   </td>
                   <td className="px-6 py-4 text-gray-600">
-                    Centuries (gets stronger over time)
+                    100+ years (strengthens over time)
                   </td>
                   <td className="px-6 py-4 text-gray-600">
                     50-100 years typical
@@ -287,8 +284,8 @@ function Services() {
                 Consultation
               </h3>
               <p className="text-gray-600">
-                We discuss your vision, requirements, and budget to understand
-                your dream home.
+                We learn about your site, your vision, and your priorities.
+                You learn about hempcrete and what it can do for your home.
               </p>
             </div>
             <div className="text-center">
@@ -299,8 +296,8 @@ function Services() {
                 Design
               </h3>
               <p className="text-gray-600">
-                We create detailed plans optimized for hempcrete construction
-                and your site.
+                Detailed plans optimized for hempcrete construction, your
+                site conditions, and Colorado's climate.
               </p>
             </div>
             <div className="text-center">
@@ -311,8 +308,8 @@ function Services() {
                 Construction
               </h3>
               <p className="text-gray-600">
-                Foundation, framing, and hempcrete installation bring your home
-                to life.
+                Foundation, framing, hempcrete walls, roofing, mechanical
+                systems, and finishes — managed start to finish.
               </p>
             </div>
             <div className="text-center">
@@ -320,11 +317,11 @@ function Services() {
                 4
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Completion
+                Move-In
               </h3>
               <p className="text-gray-600">
-                Final finishes, inspection, and handover of your sustainable
-                dream home.
+                Final inspections, walkthrough, and keys to a home built to
+                last generations.
               </p>
             </div>
           </div>
@@ -335,10 +332,11 @@ function Services() {
       <section className="py-16 md:py-24 bg-primary">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-            Ready to Start Your Project?
+            Ready to Build Different?
           </h2>
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            Let's discuss how hempcrete can make your dream home a reality.
+            A hempcrete home is a long-term investment in comfort, durability, and
+            environmental responsibility. Let's talk about yours.
           </p>
           <Link
             to="/contact"

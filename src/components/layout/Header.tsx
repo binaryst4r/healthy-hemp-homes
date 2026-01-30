@@ -45,7 +45,7 @@ function Header() {
               to="/contact"
               className="bg-primary text-white px-5 py-2 rounded-lg hover:bg-primary-dark transition-colors font-medium"
             >
-              Get a Quote
+              Start a Project
             </Link>
           </div>
 
@@ -103,7 +103,7 @@ function Header() {
                 onClick={() => setIsMenuOpen(false)}
                 className="bg-primary text-white px-5 py-2 rounded-lg hover:bg-primary-dark transition-colors font-medium text-center"
               >
-                Get a Quote
+                Start a Project
               </Link>
             </div>
           </div>

@@ -11,8 +11,8 @@ function About() {
               About Healthy Hemp Homes
             </h1>
             <p className="text-xl text-gray-600">
-              Pioneering sustainable home construction in Colorado with
-              hempcrete technology.
+              Bringing proven hempcrete construction to Colorado — building homes
+              that perform better and last longer.
             </p>
           </div>
         </div>
@@ -27,25 +27,21 @@ function About() {
             </h2>
             <div className="prose prose-lg text-gray-600 space-y-4">
               <p>
-                Healthy Hemp Homes LLC was founded with a simple mission: to
-                bring sustainable, high-performance hempcrete construction to
-                Colorado homeowners. As partners with a shared passion for
-                sustainable building, we saw an opportunity when hemp became
-                legal in the United States.
+                Healthy Hemp Homes exists because hempcrete construction is too
+                good to remain a European secret. The 2018 Farm Bill made hemp
+                cultivation legal in the US, and we saw a chance to bring
+                decades-proven building science to Colorado homeowners.
               </p>
               <p>
-                For years, hempcrete has been used in Europe to build homes that
-                are more comfortable, more durable, and better for the
-                environment than conventional construction. With the legalization
-                of hemp in America, we can finally bring this technology to
-                Colorado.
+                Hempcrete homes have stood in Europe for over a century. They
+                outperform conventional construction on comfort, durability, and
+                environmental impact — and now they are possible here.
               </p>
               <p>
-                We're currently working on our first project in the mountains of
-                Littleton — a custom home that will showcase the beauty and
-                performance of hempcrete construction. While we're still in the
-                early stages with site preparation underway, we're excited to
-                demonstrate what's possible with this remarkable material.
+                Our current project in the Littleton mountains is in the early
+                construction phase. Site prep is complete, and we are building a
+                custom home that will demonstrate hempcrete's performance in
+                Colorado's climate.
               </p>
             </div>
           </div>
@@ -61,17 +57,15 @@ function About() {
             </h2>
             <div className="prose prose-lg text-gray-600 space-y-4">
               <p>
-                Hempcrete is a bio-composite building material made from the
-                woody inner core of the hemp plant (called "hurds" or "shiv")
-                mixed with a lime-based binder. When packed into forms around a
-                traditional wood frame, it creates walls that replace drywall,
-                insulation, sheathing, and siding all in one.
+                Hemp hurd — the woody core left after fiber extraction — mixed
+                with a lime-based binder creates a bio-composite that replaces
+                four conventional materials: drywall, insulation, sheathing, and
+                siding.
               </p>
               <p>
-                The construction process is similar to conventional building —
-                we start with a standard frame, then pack hempcrete into forms
-                around it. Once cured, the hempcrete walls have a beautiful,
-                natural texture similar to stucco or adobe.
+                We frame traditionally with wood, then pack hempcrete into forms
+                around the structure. Once cured, the walls deliver a monolithic,
+                stucco-like finish inside and out.
               </p>
             </div>
 
@@ -81,9 +75,10 @@ function About() {
                   The Hemp
                 </h3>
                 <p className="text-gray-600">
-                  We use hemp hurds — the woody core left over after hemp fiber
-                  is extracted. This byproduct of the CBD and textile industries
-                  is transformed into a valuable building material.
+                  Hemp hurd is the woody core left after fiber extraction — an
+                  agricultural byproduct transformed into high-performance
+                  building material. Hemp grows fast, sequesters carbon, and
+                  requires minimal inputs.
                 </p>
               </div>
               <div className="bg-white p-6 rounded-xl shadow-md">
@@ -91,9 +86,10 @@ function About() {
                   The Lime
                 </h3>
                 <p className="text-gray-600">
-                  Natural hydraulic lime acts as the binder, mineralizing around
-                  the hemp fibers. Over time, the lime actually absorbs CO2 from
-                  the air, turning back into limestone.
+                  Natural hydraulic lime binds the hemp, mineralizing around
+                  each fiber. Over decades, the lime carbonates — absorbing CO2
+                  and gradually returning to limestone. The walls get stronger
+                  with age.
                 </p>
               </div>
             </div>
@@ -125,12 +121,12 @@ function About() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Superior Insulation
+                Thermal Performance
               </h3>
               <p className="text-gray-600">
-                Hempcrete provides excellent thermal mass and insulation,
-                keeping your home comfortable year-round with lower energy
-                costs.
+                Insulation plus thermal mass means stable temperatures. Walls
+                absorb heat during the day and release it at night — reducing
+                HVAC load year-round.
               </p>
             </div>
             <div className="text-center">
@@ -150,12 +146,12 @@ function About() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Long-Lasting
+                Century-Plus Lifespan
               </h3>
               <p className="text-gray-600">
-                Hempcrete structures in Europe have stood for centuries. The
-                material actually gets stronger over time as the lime continues
-                to cure.
+                Hempcrete structures in Europe have lasted over 100 years.
+                Lime continues curing for decades, so walls grow stronger —
+                not weaker — over time.
               </p>
             </div>
             <div className="text-center">
@@ -178,8 +174,9 @@ function About() {
                 Fire Resistant
               </h3>
               <p className="text-gray-600">
-                Hempcrete is naturally fire-resistant due to its mineral
-                content, providing an extra layer of safety for your family.
+                The mineral content of lime makes hempcrete inherently
+                fire-resistant — a meaningful advantage in Colorado's
+                wildfire-prone areas.
               </p>
             </div>
             <div className="text-center">
@@ -199,11 +196,11 @@ function About() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Pest & Mold Resistant
+                Pest and Mold Resistant
               </h3>
               <p className="text-gray-600">
-                The lime in hempcrete creates an alkaline environment that
-                naturally resists pests, mold, and mildew.
+                Lime creates an alkaline environment inhospitable to pests,
+                mold, and mildew. No chemical treatments needed.
               </p>
             </div>
             <div className="text-center">
@@ -226,8 +223,9 @@ function About() {
                 Carbon Negative
               </h3>
               <p className="text-gray-600">
-                Hemp absorbs CO2 as it grows, and the lime continues to absorb
-                carbon as it cures. Your home actually helps the environment.
+                Hemp sequesters carbon during growth. Lime absorbs CO2 as it
+                cures. The math works out: hempcrete walls remove more carbon
+                than they emit.
               </p>
             </div>
             <div className="text-center">
@@ -247,12 +245,11 @@ function About() {
                 </svg>
               </div>
               <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Cost Effective
+                Lifetime Value
               </h3>
               <p className="text-gray-600">
-                While material costs are competitive, the real savings come from
-                reduced energy bills and minimal maintenance over the life of
-                your home.
+                Lower energy bills. Minimal maintenance. A lifespan measured in
+                centuries. The upfront investment pays dividends for generations.
               </p>
             </div>
           </div>
@@ -263,11 +260,11 @@ function About() {
       <section className="py-16 md:py-24 bg-primary">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">
-            Interested in Learning More?
+            Ready to Explore Hempcrete?
           </h2>
           <p className="text-xl text-white/90 mb-8 max-w-2xl mx-auto">
-            We'd love to tell you more about hempcrete and how it could work for
-            your dream home.
+            Whether you are ready to build or just curious, we are happy to
+            answer questions and walk you through the possibilities.
           </p>
           <Link
             to="/contact"
